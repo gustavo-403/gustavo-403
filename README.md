@@ -29,7 +29,7 @@
 
 <br>
 
-## ✉️ &nbsp;Contatos
+## ✉️ &nbsp;Contacts
 
 <a href="https://www.linkedin.com/in/gustavo-silva-876400281/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gustavo-8956?style=flat&logo=linkedin&color=black" alt="linkedin"/>
