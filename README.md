@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gustavo-403&color=green)
 
-### 📚 No momento estou estudando sobre CyberSecurity, conceitos bases e fazendo faculdade em Defesa Cibernetica. e também estou buscando conhecimentos em C++.
+- 📚 No momento estou estudando sobre CyberSecurity, conceitos bases e fazendo faculdade em Defesa Cibernetica. e também estou buscando conhecimentos em C++.
 
 <br>
 
