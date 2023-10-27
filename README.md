@@ -34,10 +34,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gustavo-silva-876400281/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gustavo-Silva?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Gustavo?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gustavo.048/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/gustavo.048?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/Gustavo?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCQ_9axghy1mnAKiVKWhzorg" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Gustavo?style=flat&logo=youtube" alt="youtube"/>
