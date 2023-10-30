@@ -20,15 +20,6 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=gustavo-403&show_icons=true&theme=vision-friendly-dark" alt="Gustavo stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-403&layout=compact&theme=vision-friendly-dark" alt="Gustavo Linguagens mais usadas"/>
-</p>
-
-<br>
-
 ## ✉️ &nbsp;Contacts
 
 <a href="https://www.linkedin.com/in/gustavo-silva-876400281/" target="_blank">
